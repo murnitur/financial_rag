@@ -1,0 +1,9 @@
+faker
+murnitur==1.1.11
+langchain
+langchain_community
+langchain_openai
+python-dotenv
+faiss-cpu
+jq
+streamlit
